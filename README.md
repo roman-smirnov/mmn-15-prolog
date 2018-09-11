@@ -4,9 +4,8 @@
 
 ### Demo
 
-![Screen Shot 2018-09-09 at 3.37.23](mmn_15_prolog.assets/Screen Shot 2018-09-09 at 3.37.23.png)
-
-![Screen Shot 2018-09-09 at 3.38.16](mmn_15_prolog.assets/Screen Shot 2018-09-09 at 3.38.16.png)
+![Screen Shot](./screenshot1.png)
+![Screen Shot](./screenshot2.png)
 
 
 
